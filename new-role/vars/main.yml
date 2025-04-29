@@ -1,2 +1,4 @@
 ---
 # vars file for new-role
+#
+new-var: value
