@@ -1,2 +1,7 @@
 ---
 # tasks file for new-role
+#
+- name: new task
+  debug:
+    msg: "New task"
+
