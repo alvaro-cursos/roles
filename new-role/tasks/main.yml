@@ -5,3 +5,5 @@
   debug:
     msg: "New task"
 
+- name: OTRA tarea
+  ping:
